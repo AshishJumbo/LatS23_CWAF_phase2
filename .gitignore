@@ -1,0 +1,8 @@
+.idea/
+venv
+data/rq1_Data
+data/rq3_Data/assignment_xid_to_get_classid.csv
+data/rq3_Data/processed_from_cas_core
+data/rq3_Data/processed_from_student_support
+data/rq3_Data/raw_from_cas_core
+data/rq3_Data/raw_from_student_support
